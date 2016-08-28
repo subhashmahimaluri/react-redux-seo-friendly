@@ -1,0 +1,27 @@
+.app {
+  .brand {
+    $size: 160px;
+    overflow: hidden;
+    text-indent: 101%;
+    white-space: nowrap;
+    display: inline-block;
+    background: url('../Home/tl-logo.png') no-repeat 50% 50%;
+    width: $size;
+    height: 100%;
+    margin: 0 10px 0 0;
+    background-size: contain;
+  }
+  nav :global(.fa) {
+    font-size: 2em;
+    line-height: 20px;
+  }
+}
+.navbar-header {
+  position: relative;
+  float: left;
+  width: auto;
+  height: 108px;
+}
+.appContent {
+  margin: 50px 0; // for fixed navbar
+}

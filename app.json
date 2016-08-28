@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-seo-friendly",
+  "description": "Isomorphic (universal) webapp using react redux  seo friendly and hot reloading",
+  "repository": "https://github.com/subhashmahimaluri/react-redux-seo-friendly",
+  "logo": "http://www.travelandleisure.com/sites/all/themes/tnl_redesign/templates/etr/assets/img/sprites/tl-logo.png",
+  "keywords": [
+    "react",
+    "isomorphic",
+    "universal",
+    "webpack",
+    "express",
+    "hot reloading",
+    "react-hot-reloader",
+    "redux",
+    "starter",
+    "boilerplate",
+    "babel"
+  ]
+}
