@@ -1,0 +1,19 @@
+.idea/
+node_modules/
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+.idea
+._.DS*
+.DS_*
+._*
+*sass-cache*
+tags
+# Vim files
+*.sw*
+/vendor
+/bin
+*.phar
+.sass-cache
